@@ -1,2 +1,2 @@
-# key-escrow-
-This project is built for Network security course term project
+# Key-Escrow
+This project is built for Network Security Course Term Project.
